@@ -4,7 +4,7 @@
 --
 --    Description:  Warns you if you don't have your water elemental out.
 --
---        Version:  5.2.1
+--        Version:  6.2.1
 --
 --         Author:  Mathias Jost (mail@mathiasjost.com)
 --
